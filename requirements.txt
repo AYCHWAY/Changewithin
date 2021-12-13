@@ -1,4 +1,4 @@
-lxml==3.2.1
+lxml==4.6.5
 pystache==0.5.3
 requests==1.2.3
 modestmaps>=1.4.2
